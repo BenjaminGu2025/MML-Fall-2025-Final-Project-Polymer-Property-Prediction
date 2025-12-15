@@ -48,8 +48,7 @@ conda activate mml_comp_chem
    5. Run all cells in the notebook.
    6. The model will output a `submission.csv` file in the notebooks directory.
 ## 📊 Data
-The dataset consists of polymer SMILES strings and their associated physical properties.
-- Source: Provided by the MML Fall 2025 Course 6.
-- Note: We utilized the provided course datasets and did not generate external data.
+The public dataset consists of polymer SMILES strings and their associated physical properties.
+- Source: Public provided by **NeurIPS - Open Polymer Prediction 2025**. URL: https://www.kaggle.com/competitions/neurips-open-polymer-prediction-2025/data. No other external data was used.
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
