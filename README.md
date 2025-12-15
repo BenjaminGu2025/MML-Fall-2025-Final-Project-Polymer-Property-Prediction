@@ -16,17 +16,17 @@ Project implements a machine learning pipeline to predict physical properties of
 ## ⚙️ Installation Instructions
 1. Clone this repository.
 2. Install dependencies:
-  ```bash
-  pip install -r requirements.txt
+  `bash
+  pip install -r requirements.txt`
 
-🚀 How to Reproduce Results
+## 🚀 How to Reproduce Results
    1. Navigate to the notebooks/ directory.
    2. Open main_pipeline.ipynb.
    3. Ensure train.csv and test.csv are located in the data/ directory relative to the notebook.
    4. Run all cells in the notebook.
    5. The model will output a submission.csv file in the notebooks directory.
-📊 Data
+
+## 📊 Data
 The dataset consists of polymer SMILES strings and their associated physical properties.
    * Source: Provided by the MML Fall 2025 Course6.
-
    * Note: We utilized the provided course datasets and did not generate external data.
