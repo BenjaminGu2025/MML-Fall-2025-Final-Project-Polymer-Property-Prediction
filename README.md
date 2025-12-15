@@ -16,12 +16,11 @@ Project implements a machine learning pipeline to predict physical properties of
 ## ⚙️ Installation Instructions
 1. Clone this repository.
 2. Install dependencies:
-  `bash
-  pip install -r requirements.txt`
+  `pip install -r requirements.txt`
 
 ## 🚀 How to Reproduce Results
-   1. Navigate to the notebooks/ directory.
-   2. Open main_pipeline.ipynb.
+   1. Navigate to the notebooks/directory.
+   2. Open MML_project_v1.ipynb.
    3. Ensure train.csv and test.csv are located in the data/ directory relative to the notebook.
    4. Run all cells in the notebook.
    5. The model will output a submission.csv file in the notebooks directory.
