@@ -1,0 +1,2 @@
+# MML-Fall-2025-Final-Project-Polymer-Property-Prediction
+Project implements a machine learning pipeline to predict physical properties of polymers (Tg, FFV, Tc, Density, Rg) based on their SMILES representation. We utilize a hybrid feature engineering approach combining RDKit descriptors, Morgan Fingerprints, and ChemBERTa transformer embeddings, followed by an AutoGluon AutoML ensemble for prediction.
